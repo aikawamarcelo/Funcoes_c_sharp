@@ -1,0 +1,15 @@
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\Funcoes\bin\Debug\net6.0\Funcoes.exe
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\Funcoes\bin\Debug\net6.0\Funcoes.deps.json
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\Funcoes\bin\Debug\net6.0\Funcoes.runtimeconfig.json
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\Funcoes\bin\Debug\net6.0\Funcoes.dll
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\Funcoes\bin\Debug\net6.0\Funcoes.pdb
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\Funcoes\obj\Debug\net6.0\Funcoes.csproj.AssemblyReference.cache
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\Funcoes\obj\Debug\net6.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\Funcoes\obj\Debug\net6.0\Funcoes.AssemblyInfoInputs.cache
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\Funcoes\obj\Debug\net6.0\Funcoes.AssemblyInfo.cs
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\Funcoes\obj\Debug\net6.0\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\Funcoes\obj\Debug\net6.0\Funcoes.dll
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\Funcoes\obj\Debug\net6.0\refint\Funcoes.dll
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\Funcoes\obj\Debug\net6.0\Funcoes.pdb
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\Funcoes\obj\Debug\net6.0\Funcoes.genruntimeconfig.cache
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\Funcoes\obj\Debug\net6.0\ref\Funcoes.dll
